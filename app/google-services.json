@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179577214594",
+    "project_id": "adso-6ac40",
+    "storage_bucket": "adso-6ac40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179577214594:android:aea2d531d36ef4e8f6c69b",
+        "android_client_info": {
+          "package_name": "com.example.proyectoadso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIXcmrYYos7y5gh9VExyAtjGUfs0FG_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

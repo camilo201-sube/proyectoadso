@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">proyectoadso</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="usuario_sin_registrar">Usuario sin Registrar?</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="usuario_ya_registrado">Usuario ya Registrado?</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Iniciar_Sesion">Iniciar Sesion</string>
+    <string name="Correo_electronico">Correo Electronico</string>
+</resources>
